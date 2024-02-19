@@ -1,0 +1,2 @@
+# intership
+git configuration
